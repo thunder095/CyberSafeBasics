@@ -20,9 +20,11 @@
 2. Open the project in Android Studio.
 3. Check the java files in the app folder.
 4. Use them accordingly to your use and this app doesn't contains any assets.
-5. Replace the assets with your own assets folder. 
-6. Replace `YOUR_API_KEY` in `callAPI()` with your OpenAI API key.
-7. Build and run the app on your Android device or emulator.
+5. Before opening this Zip folder create your own android studio project.
+6. Replace the assets with your own assets folder.
+7. Next just replace the /res and /java folder in your application. 
+8. Now Replace `YOUR_API_KEY` in `callAPI()` with your OpenAI API key.
+9. Build and run the app on your Android device or emulator.
 
 
 ## Important Note
@@ -38,7 +40,11 @@ Please be cautious while integrating API keys and sensitive information in your 
 - [OpenAI API Documentation](https://beta.openai.com/docs/)
 - [OkHttp Library](https://square.github.io/okhttp/)
 
-## Feel free to explore, experiment, and contribute to this project. Happy coding!
+## Feel free to explore, experiment, and contribute to this project. 
+
+----
+
+## Happy Coding ! Stay Safe -+-
 
 ---
 
